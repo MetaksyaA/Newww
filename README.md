@@ -130,5 +130,4 @@ When you hover over each bar, a tooltip appears, explaining the KPI and showing 
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - Required Python packages (listed in `requirements.txt`)
 
-### Installation
 
