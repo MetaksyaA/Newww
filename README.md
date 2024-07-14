@@ -132,8 +132,3 @@ When you hover over each bar, a tooltip appears, explaining the KPI and showing 
 
 ### Installation
 
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/MetaksyaA/8977.git
-   cd 8977
